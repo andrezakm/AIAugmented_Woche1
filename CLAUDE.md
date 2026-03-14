@@ -129,7 +129,7 @@ Das ist alles. Dieses Muster wirst du heute mehrfach in Aktion sehen.
 
 **4a — Einzelnes Interview analysieren**
 
-Starte mit einem einzigen Interview. Tippe:
+Du arbeitest direkt hier in Claude Code — der App, in der du diesen Text gerade liest. Tippe den folgenden Prompt einfach als nächste Nachricht ein und drücke Enter:
 
 ```
 Analysiere input/Interview_Gen_10.md.
@@ -137,7 +137,7 @@ Folge dabei den Anweisungen in scripts/interview-analysis.md.
 Speichere das Ergebnis in output/.
 ```
 
-Warte, bis das Ergebnis in `output/` erscheint. Öffne es und lies es durch.
+Claude führt die Analyse aus und speichert das Ergebnis automatisch. Warte, bis es fertig ist — dann öffne die neue Datei in `output/` und lies sie durch.
 
 **4b — Beurteile das Ergebnis**
 
@@ -178,7 +178,7 @@ Führe denselben Prompt wie in 4a nochmal aus. Ist das Ergebnis besser?
 
 **Lernziel:** Das verbesserte Skript auf alle 10 Interviews anwenden — und erleben, wie parallele Agenten arbeiten.
 
-Jetzt der volle Durchlauf. Tippe:
+Jetzt der volle Durchlauf. Tippe folgenden Prompt direkt hier in Claude Code ein:
 
 ```
 Führe scripts/interview-analysis.md aus.
@@ -224,7 +224,7 @@ Das verändert, wie du die Interviews liest. Nicht jedes Problem ist eines, das 
 - sich bei mehreren Kunden wiederholen könnten
 - schnell lieferbar sind
 
-Optional — aber empfohlen:
+Optional — aber empfohlen. Tippe direkt in Claude Code:
 
 ```
 Lies context/company.md und context/strategy.md.
@@ -247,7 +247,7 @@ zu NeoEmployees Ansatz? Begründe kurz.
 
 **Lernziel:** Erleben, dass ein kurzer Prompt ausreicht — weil die Intelligenz im Skript steckt.
 
-Tippe:
+Tippe direkt hier in Claude Code:
 
 ```
 Schreib uns einen PRD auf Basis der Interview-Analyse in output/
@@ -277,6 +277,8 @@ Lies das PRD, wenn es fertig ist:
 **Lernziel:** KI-Output kritisch einschätzen — und das Skript so anpassen, dass das Ergebnis besser wird. Das ist die Kernfähigkeit.
 
 **8a — Vergleiche PRD mit Interviews**
+
+Tippe direkt in Claude Code:
 
 ```
 Vergleiche den PRD in output/ mit der Interview-Synthese in output/.
@@ -317,7 +319,7 @@ Das ist der Kern dieser Woche: Du lernst, Ergebnisse zu beurteilen und Skripte s
 
 **Lernziel:** Erleben, wie schnell aus einem PRD etwas Klickbares entsteht.
 
-Tippe:
+Tippe direkt in Claude Code:
 
 ```
 Erstelle einen HTML-Prototypen auf Basis des PRDs in output/.
