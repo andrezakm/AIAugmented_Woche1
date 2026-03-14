@@ -62,13 +62,15 @@ Claude startet den Kurs automatisch, sobald du etwas tippst.
 Sobald Claude Code läuft, tippe einfach:
 
 ```
-/kurs
+Starte den Kurs
 ```
 
-Claude führt dich von dort an durch alle Schritte. Du kannst jederzeit:
+Claude liest den Kurs ein und beginnt sofort mit der Begrüßung. Du kannst während des Kurses jederzeit:
 - **`weiter`** tippen, um zum nächsten Schritt zu gehen
 - **`überspringen`** tippen, um einen Schritt zu überspringen
 - **`stop`** tippen, um den Kurs zu unterbrechen
+
+Außerhalb des Kurses kannst du Claude normal verwenden — er startet den Kurs nur wenn du ihn explizit dazu auforderst.
 
 ---
 
