@@ -10,7 +10,7 @@ Du bist der Kursleiter für "AI-Augmented PM — Woche 1". Sobald der Teilnehmer
   ─────────────────────────────────────
   ▶ weiter        — nächster Schritt
   ⏭ überspringen  — diesen Schritt überspringen
-  ⏹ stop          — Kurs unterbrechen
+  ⏹ Tippe "stop"  — Kurs unterbrechen
   ─────────────────────────────────────
   ```
 - Warte auf die Antwort des Teilnehmers, bevor du weitermachst
@@ -36,7 +36,7 @@ Los geht's?
 ```
 ─────────────────────────────────────
 ▶ weiter        — Schritt 1 starten
-⏹ stop          — Kurs unterbrechen
+⏹ Tippe "stop"  — Kurs unterbrechen
 ─────────────────────────────────────
 ```
 
@@ -58,7 +58,7 @@ Das war Schritt 1. Du weißt jetzt, wie man einen Kurs wie diesen einrichtet und
 ─────────────────────────────────────
 ▶ weiter        — Schritt 2
 ⏭ überspringen  — Schritt 3
-⏹ stop          — Kurs unterbrechen
+⏹ Tippe "stop"  — Kurs unterbrechen
 ─────────────────────────────────────
 ```
 
@@ -89,7 +89,7 @@ Diese vier Ordner sind kein Zufall. Sie folgen einem Muster, das du auf jedes KI
 ─────────────────────────────────────
 ▶ weiter        — Schritt 3
 ⏭ überspringen  — Schritt 4
-⏹ stop          — Kurs unterbrechen
+⏹ Tippe "stop"  — Kurs unterbrechen
 ─────────────────────────────────────
 ```
 
@@ -117,7 +117,7 @@ Das ist alles. Dieses Muster wirst du heute mehrfach in Aktion sehen.
 ─────────────────────────────────────
 ▶ weiter        — Schritt 4
 ⏭ überspringen  — Schritt 5
-⏹ stop          — Kurs unterbrechen
+⏹ Tippe "stop"  — Kurs unterbrechen
 ─────────────────────────────────────
 ```
 
@@ -168,7 +168,7 @@ Führe denselben Prompt wie in 4a nochmal aus. Ist das Ergebnis besser?
 ─────────────────────────────────────
 ▶ weiter        — Schritt 5
 ⏭ überspringen  — Schritt 6
-⏹ stop          — Kurs unterbrechen
+⏹ Tippe "stop"  — Kurs unterbrechen
 ─────────────────────────────────────
 ```
 
@@ -198,7 +198,7 @@ Lies die Synthese. Was ist das größte Problem, das die Interviews zeigen?
 ─────────────────────────────────────
 ▶ weiter        — Schritt 6
 ⏭ überspringen  — Schritt 7
-⏹ stop          — Kurs unterbrechen
+⏹ Tippe "stop"  — Kurs unterbrechen
 ─────────────────────────────────────
 ```
 
@@ -237,7 +237,7 @@ zu NeoEmployees Ansatz? Begründe kurz.
 ─────────────────────────────────────
 ▶ weiter        — Schritt 7
 ⏭ überspringen  — Schritt 8
-⏹ stop          — Kurs unterbrechen
+⏹ Tippe "stop"  — Kurs unterbrechen
 ─────────────────────────────────────
 ```
 
@@ -266,7 +266,7 @@ Lies das PRD, wenn es fertig ist:
 ─────────────────────────────────────
 ▶ weiter        — Schritt 8
 ⏭ überspringen  — Schritt 9
-⏹ stop          — Kurs unterbrechen
+⏹ Tippe "stop"  — Kurs unterbrechen
 ─────────────────────────────────────
 ```
 
@@ -307,7 +307,7 @@ Das ist der Kern dieser Woche: Du lernst, Ergebnisse zu beurteilen und Skripte s
 ─────────────────────────────────────
 ▶ weiter        — Schritt 9
 ⏭ überspringen  — Schritt 10
-⏹ stop          — Kurs unterbrechen
+⏹ Tippe "stop"  — Kurs unterbrechen
 ─────────────────────────────────────
 ```
 
@@ -335,7 +335,7 @@ Schau dir den Prototypen an: Kannst du in 30 Sekunden erklären, was das Produkt
 ─────────────────────────────────────
 ▶ weiter        — Schritt 10
 ⏭ überspringen  — Zugaben
-⏹ stop          — Kurs unterbrechen
+⏹ Tippe "stop"  — Kurs unterbrechen
 ─────────────────────────────────────
 ```
 
@@ -372,7 +372,7 @@ Nicht weil KI schwach ist — sondern weil Fokus funktioniert.
 ─────────────────────────────────────
 ▶ weiter        — Zugabe 1 (Full-Pipeline)
 ⏭ überspringen  — Zugabe 2 (eigenes Skript)
-⏹ stop          — Kurs beenden
+⏹ Tippe "stop"  — Kurs beenden
 ─────────────────────────────────────
 ```
 
@@ -401,7 +401,7 @@ Ein Satz. Der Rest passiert von selbst.
 ```
 ─────────────────────────────────────
 ▶ weiter        — Zugabe 2 (eigenes Skript)
-⏹ stop          — Kurs beenden
+⏹ Tippe "stop"  — Kurs beenden
 ─────────────────────────────────────
 ```
 
