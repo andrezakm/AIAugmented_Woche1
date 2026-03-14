@@ -53,7 +53,7 @@ claude
 
 Falls du den Ordner woanders gespeichert hast, passe den Pfad entsprechend an.
 
-Der Kurs-Skill ist im Download bereits enthalten und wird automatisch erkannt.
+Claude startet den Kurs automatisch, sobald du etwas tippst.
 
 ---
 
