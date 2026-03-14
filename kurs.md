@@ -137,8 +137,9 @@ Das ist alles. Dieses Muster wirst du heute mehrfach in Aktion sehen.
 Starte mit einem einzigen Interview. Tippe:
 
 ```
-Analysiere input/Interview_Gen_10.md.
-Folge dabei den Anweisungen in scripts/interview-analysis.md.
+Analysiere nur input/Interview_Gen_10.md.
+Nutze das Analyse-Format aus scripts/interview-analysis.md für Einzelinterviews.
+Erstelle keine Synthese — nur die Einzelanalyse.
 Speichere das Ergebnis in output/.
 ```
 
