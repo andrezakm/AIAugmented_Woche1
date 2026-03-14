@@ -53,7 +53,7 @@ claude
 
 Falls du den Ordner woanders gespeichert hast, passe den Pfad entsprechend an.
 
-Claude startet den Kurs automatisch, sobald du etwas tippst.
+Claude ist jetzt bereit. Tippe "Starte den Kurs" um zu beginnen.
 
 ---
 
@@ -79,9 +79,8 @@ Außerhalb des Kurses kannst du Claude normal verwenden — er startet den Kurs 
 ```
 AIAugmentedPM-Woche1/
 ├── README.md              ← Diese Datei — lies sie zuerst
-├── .claude/
-│   └── skills/
-│       └── kurs.md        ← Kurs-Skill (wird automatisch von Claude erkannt)
+├── CLAUDE.md              ← Wird automatisch von Claude geladen
+├── kurs.md                ← Der vollständige Kursinhalt
 ├── context/
 │   ├── company.md         ← Wer ist NeoEmployee?
 │   └── strategy.md        ← Was ist die Strategie?
@@ -103,11 +102,11 @@ AIAugmentedPM-Woche1/
 
 Dieser Kurs läuft komplett in Claude Code — das bedeutet, dass jeder Schritt Tokens verbraucht. Bei intensiver Nutzung kann Claude Code dich bitten, kurz zu warten. Das Token-Limit wird alle 5 Stunden zurückgesetzt.
 
-**Wenn du Tokens sparen möchtest:** Öffne `CLAUDE.md` direkt im Texteditor und lies die Schritte dort nach — dann arbeitest du parallel in Claude Code, ohne den Kurstext mitzuschleppen.
+**Wenn du Tokens sparen möchtest:** Öffne `kurs.md` direkt im Texteditor und lies die Schritte dort nach — dann arbeitest du parallel in Claude Code, ohne den Kurstext mitzuschleppen.
 
 ---
 
 ## Probleme?
 
 - Claude findet die Dateien nicht → stelle sicher, dass du Claude Code **im Kursordner** gestartet hast
-- `/kurs` funktioniert nicht → stelle sicher, dass du das Repository vollständig heruntergeladen hast (nicht nur einzelne Dateien) und Claude Code neu startest
+- Kurs startet nicht → stelle sicher, dass du das Repository vollständig heruntergeladen hast (nicht nur einzelne Dateien) und Claude Code neu startest
