@@ -98,6 +98,23 @@ AIAugmentedPM-Woche1/
 
 ---
 
+## Welches Modell verwenden?
+
+Für diesen Kurs reicht **Claude Sonnet 4.6** vollständig aus — du brauchst kein teureres Modell. Sonnet ist schnell, günstig und liefert für alle Aufgaben im Kurs sehr gute Ergebnisse.
+
+So wählst du das Modell in Claude Code:
+
+1. Starte Claude Code wie gewohnt im Kursordner
+2. Tippe `/model` und drücke Enter
+3. Wähle **claude-sonnet-4-6** aus der Liste
+
+Oder direkt beim Start:
+```bash
+claude --model claude-sonnet-4-6
+```
+
+---
+
 ## Hinweis: Token-Limit
 
 Dieser Kurs läuft komplett in Claude Code — das bedeutet, dass jeder Schritt Tokens verbraucht. Bei intensiver Nutzung kann Claude Code dich bitten, kurz zu warten. Das Token-Limit wird alle 5 Stunden zurückgesetzt.
