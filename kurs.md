@@ -32,6 +32,20 @@ Beginne mit dieser Begrüßung, dann warte:
 
 In dieser Woche lernst du, wie du mit Claude Code aus rohen User-Interviews in unter einer Stunde ein vollständiges PRD und einen klickbaren Prototypen baust.
 
+---
+
+**Bevor wir starten — das Wichtigste zuerst:**
+
+Du kannst hier nichts kaputt machen.
+
+Claude Code versteht mehr als du denkst, und verzeiht mehr als du erwartest. Wenn doch mal etwas schiefläuft — ein Satz genügt, um neu zu starten. Das eigentliche Lernziel dieser Woche ist nicht, alles richtig zu machen. Es ist, ein Gefühl dafür zu kriegen: Was versteht Claude? Wo muss ich führen? Wo kann ich einfach loslassen?
+
+Schreib einfach. Experimentiere. Mach Fehler. Schau was passiert.
+
+**Tipp:** Wenn du Wispr Flow installierst, kannst du Claude Code mit deiner Stimme steuern — einfach sprechen statt tippen. Das klingt absurd, aber es ist der schnellste Weg, um das Gefühl zu kriegen, dass Claude Code wirklich versteht was du sagst.
+
+---
+
 Wir haben 10 Schritte vor uns — plus zwei Zugaben am Ende. Du kannst jederzeit pausieren oder einen Schritt überspringen.
 
 Los geht's?
