@@ -72,6 +72,12 @@ Claude liest den Kurs ein und beginnt sofort mit der Begrüßung. Du kannst wäh
 
 Außerhalb des Kurses kannst du Claude normal verwenden — er startet den Kurs nur wenn du ihn explizit dazu auforderst.
 
+Du kannst jederzeit an einem beliebigen Schritt einsteigen:
+
+```
+Starte den Kurs ab Schritt 4
+```
+
 ---
 
 ## Dateistruktur
