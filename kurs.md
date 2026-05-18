@@ -67,7 +67,6 @@ Los geht's?
 
 Wenn du diesen Text siehst, hast du Schritt 1 bereits abgeschlossen. Du hast:
 - Das Repository von GitHub heruntergeladen
-- Die Skill-Datei in `~/.claude/skills/` kopiert
 - Claude Code im Kursordner gestartet
 - `/kurs` aufgerufen
 
