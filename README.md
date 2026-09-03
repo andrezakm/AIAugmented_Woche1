@@ -2,26 +2,24 @@
 
 Willkommen. Dieses Repository enthält alle Materialien für Woche 1 des Kurses **AI-Augmented Product Management**.
 
-Du lernst in dieser Woche, wie du mit Claude Code aus rohen User-Interviews ein vollständiges PRD und einen klickbaren Prototypen baust — in unter einer Stunde.
+Du lernst in dieser Woche, wie du mit Claude aus rohen User-Interviews ein vollständiges PRD und einen klickbaren Prototypen baust — in unter einer Stunde.
 
 ---
 
 ## Voraussetzungen
 
-Du brauchst nur zwei Dinge:
+Du brauchst Claude — und je nachdem, wie du arbeitest, einen von zwei Wegen. **Beide funktionieren für diesen Kurs gleich gut.** Nimm den, der bei dir schon da ist.
 
-### 1. Claude Code installieren
+### Weg A — Claude in der Desktop-App
 
-Claude Code ist die App, mit der du diesen Kurs durchläufst.
+Wenn Claude bei dir schon installiert ist — in vielen Firmen wird die Desktop-App zentral ausgerollt — brauchst du **nichts weiter**: keine Installation, kein Terminal. Du arbeitest direkt in der App.
 
-→ Installationsanleitung: [claude.ai/code](https://claude.ai/code)
+### Weg B — Claude Code im Terminal
 
-Folge den Anweisungen auf der Seite für dein Betriebssystem.
-
-### 2. Ein Terminal
-
-- **Mac:** Das Programm heißt **Terminal** — bereits vorinstalliert (Programme → Dienstprogramme → Terminal, oder `Cmd + Leertaste` → "Terminal")
-- **Windows:** Suche nach **PowerShell** in der Windows-Suche und öffne es
+- **Claude Code installieren**, falls noch nicht vorhanden → [claude.ai/code](https://claude.ai/code). Folge den Anweisungen auf der Seite für dein Betriebssystem.
+- **Ein Terminal:**
+  - **Mac:** Das Programm heißt **Terminal** — bereits vorinstalliert (Programme → Dienstprogramme → Terminal, oder `Cmd + Leertaste` → "Terminal")
+  - **Windows:** Suche nach **PowerShell** in der Windows-Suche und öffne es
 
 ---
 
@@ -35,7 +33,15 @@ Gehe auf die Kursseite (den Link hast du per E-Mail erhalten) und klicke auf den
 
 Entpacke die ZIP-Datei in einen Ordner deiner Wahl — zum Beispiel auf dem Schreibtisch oder in deinen Dokumente-Ordner.
 
-### Schritt 2 — Claude Code im Kursordner starten
+### Schritt 2 — Claude im Kursordner öffnen
+
+Claude muss in **genau diesem Ordner** arbeiten — dem, in dem direkt die `CLAUDE.md` liegt. Nimm den Weg, den du oben gewählt hast:
+
+**Weg A — Desktop-App**
+
+Öffne Claude, starte eine **neue Session** und lenke sie in den entpackten Kursordner.
+
+**Weg B — Terminal**
 
 Öffne dein Terminal und navigiere in den entpackten Ordner:
 
@@ -59,7 +65,7 @@ Claude ist jetzt bereit. Tippe "Starte den Kurs" um zu beginnen.
 
 ## Kurs starten
 
-Sobald Claude Code läuft, tippe einfach:
+Sobald Claude im Kursordner läuft, tippe einfach:
 
 ```
 Starte den Kurs
@@ -106,30 +112,24 @@ AIAugmentedPM-Woche1/
 
 ## Welches Modell verwenden?
 
-Für diesen Kurs reicht **Claude Sonnet 4.6** vollständig aus — du brauchst kein teureres Modell. Sonnet ist schnell, günstig und liefert für alle Aufgaben im Kurs sehr gute Ergebnisse.
+Für diesen Kurs reicht **Sonnet** vollständig aus — du brauchst kein teureres Modell. Sonnet ist schnell, günstig und liefert für alle Aufgaben im Kurs sehr gute Ergebnisse.
 
-So wählst du das Modell in Claude Code:
+So wählst du es:
 
-1. Starte Claude Code wie gewohnt im Kursordner
-2. Tippe `/model` und drücke Enter
-3. Wähle **claude-sonnet-4-6** aus der Liste
-
-Oder direkt beim Start:
-```bash
-claude --model claude-sonnet-4-6
-```
+- **Desktop-App:** im Modell-Auswahlfeld **Sonnet** wählen.
+- **Terminal:** `/model` tippen, Enter, dann **Sonnet** aus der Liste wählen.
 
 ---
 
 ## Hinweis: Token-Limit
 
-Dieser Kurs läuft komplett in Claude Code — das bedeutet, dass jeder Schritt Tokens verbraucht. Bei intensiver Nutzung kann Claude Code dich bitten, kurz zu warten. Das Token-Limit wird alle 5 Stunden zurückgesetzt.
+Dieser Kurs läuft komplett in Claude — das bedeutet, dass jeder Schritt Tokens verbraucht. Bei intensiver Nutzung kann Claude dich bitten, kurz zu warten. Das Token-Limit wird alle 5 Stunden zurückgesetzt.
 
-**Wenn du Tokens sparen möchtest:** Öffne `kurs.md` direkt im Texteditor und lies die Schritte dort nach — dann arbeitest du parallel in Claude Code, ohne den Kurstext mitzuschleppen.
+**Wenn du Tokens sparen möchtest:** Öffne `kurs.md` direkt im Texteditor und lies die Schritte dort nach — dann arbeitest du parallel in Claude, ohne den Kurstext mitzuschleppen.
 
 ---
 
 ## Probleme?
 
-- Claude findet die Dateien nicht → stelle sicher, dass du Claude Code **im Kursordner** gestartet hast
-- Kurs startet nicht → stelle sicher, dass du das Repository vollständig heruntergeladen hast (nicht nur einzelne Dateien) und Claude Code neu startest
+- Claude findet die Dateien nicht → stelle sicher, dass Claude **im Kursordner** arbeitet (dem, in dem direkt die `CLAUDE.md` liegt)
+- Kurs startet nicht → stelle sicher, dass du das Repository vollständig heruntergeladen hast (nicht nur einzelne Dateien) und Claude neu startest

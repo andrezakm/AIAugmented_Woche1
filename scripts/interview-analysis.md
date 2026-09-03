@@ -10,6 +10,16 @@ Analyze a set of qualitative interview files and produce two outputs:
 ## Inputs
 - All interview files located in the `input/` folder
 - Read the full list of interview files before starting
+- Company and strategy context in `context/company.md` and `context/strategy.md` — read both before starting any analysis
+
+## Context: Who Is Analyzing These Interviews
+
+Before analyzing any interview, read `context/company.md` and `context/strategy.md` in full. This shapes the entire analysis:
+
+- The analyst is **NeoEmployee** — a bootstrapped consultancy that builds custom AI agents to replace employee skills within client organizations.
+- Every interview should be read through this lens: **Is this person describing a repetitive, skill-based bottleneck that an AI agent could replace?**
+- When identifying Underlying Needs (Section 5), explicitly flag whether the need maps to a potential NeoEmployee engagement — i.e., a clearly bounded employee skill that could be automated.
+- When a problem pattern appears to be generalizable across companies (not just this client), note it as a **Pattern-Recognition candidate** — input for NeoEmployee's ongoing search for reusable agent templates.
 
 ---
 

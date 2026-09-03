@@ -30,7 +30,7 @@ Beginne mit dieser Begrüßung, dann warte:
 **Willkommen zum Kurs — Woche 1**
 *AI-Augmented Product Management: Von Interviews zum PRD*
 
-In dieser Woche lernst du, wie du mit Claude Code aus rohen User-Interviews in unter einer Stunde ein vollständiges PRD und einen klickbaren Prototypen baust.
+In dieser Woche lernst du, wie du mit Claude aus rohen User-Interviews in unter einer Stunde ein vollständiges PRD und einen klickbaren Prototypen baust.
 
 ---
 
@@ -38,11 +38,11 @@ In dieser Woche lernst du, wie du mit Claude Code aus rohen User-Interviews in u
 
 Du kannst hier nichts kaputt machen.
 
-Claude Code versteht mehr als du denkst, und verzeiht mehr als du erwartest. Wenn doch mal etwas schiefläuft — ein Satz genügt, um neu zu starten. Das eigentliche Lernziel dieser Woche ist nicht, alles richtig zu machen. Es ist, ein Gefühl dafür zu kriegen: Was versteht Claude? Wo muss ich führen? Wo kann ich einfach loslassen?
+Claude versteht mehr als du denkst, und verzeiht mehr als du erwartest. Wenn doch mal etwas schiefläuft — ein Satz genügt, um neu zu starten. Das eigentliche Lernziel dieser Woche ist nicht, alles richtig zu machen. Es ist, ein Gefühl dafür zu kriegen: Was versteht Claude? Wo muss ich führen? Wo kann ich einfach loslassen?
 
 Schreib einfach. Experimentiere. Mach Fehler. Schau was passiert.
 
-**Tipp:** Wenn du Wispr Flow installierst, kannst du Claude Code mit deiner Stimme steuern — einfach sprechen statt tippen. Das klingt absurd, aber es ist der schnellste Weg, um das Gefühl zu kriegen, dass Claude Code wirklich versteht was du sagst.
+**Tipp:** Wenn du Wispr Flow installierst, kannst du Claude mit deiner Stimme steuern — einfach sprechen statt tippen. Das klingt absurd, aber es ist der schnellste Weg, um das Gefühl zu kriegen, dass Claude wirklich versteht was du sagst.
 
 ---
 
@@ -61,13 +61,13 @@ Los geht's?
 
 ## Die 10 Schritte
 
-### SCHRITT 1 — Installation ✓
+### SCHRITT 1 — Start ✓
 
-**Lernziel:** Du hast den Kurs erfolgreich installiert.
+**Lernziel:** Du hast den Kurs erfolgreich gestartet.
 
 Wenn du diesen Text siehst, hast du Schritt 1 bereits abgeschlossen. Du hast:
 - Das Repository von GitHub heruntergeladen
-- Claude Code im Kursordner gestartet
+- Claude im Kursordner gestartet
 - "Starte den Kurs" getippt
 
 Das war Schritt 1. Du weißt jetzt, wie man einen Kurs wie diesen einrichtet und startet.
@@ -432,7 +432,7 @@ Das ist der Unterschied zwischen dem, was du gelernt hast — und dem, was mögl
 
 Jetzt bist du dran.
 
-Lass Claude Code ein Skript für dich bauen. Die Aufgabe: Der PRD soll für verschiedene Zielgruppen kommuniziert werden.
+Lass Claude ein Skript für dich bauen. Die Aufgabe: Der PRD soll für verschiedene Zielgruppen kommuniziert werden.
 
 ```
 Erstelle mir ein Skript in scripts/, das den PRD aus output/ liest

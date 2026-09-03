@@ -14,6 +14,17 @@ Run the complete research-to-product pipeline in a single pass — no human inte
 
 ---
 
+## Before Starting: Load Context
+
+Before executing any step, read both context files in full:
+
+1. `context/company.md` — Who NeoEmployee is, what we build, how we work
+2. `context/strategy.md` — Bootstrap phase, T&M model, path to products, constraints
+
+Hold this context throughout all steps. Every analysis decision, product framing, and PRD section must be filtered through the NeoEmployee lens: Are we identifying employee skills that an AI agent can replace? Is this a viable T&M engagement? Is this a pattern-recognition candidate for future productization?
+
+---
+
 ## Instructions
 
 ### Step 1 — Run Interview Analysis
