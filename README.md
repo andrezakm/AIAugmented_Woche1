@@ -14,12 +14,12 @@ Du brauchst Claude — und je nachdem, wie du arbeitest, einen von zwei Wegen. *
 
 Wenn Claude bei dir schon installiert ist — in vielen Firmen wird die Desktop-App zentral ausgerollt — brauchst du **nichts weiter**: keine Installation, kein Terminal. Du arbeitest direkt in der App.
 
-### Weg B — Claude Code im Terminal
+### Weg B — Claude Code in Cursor
+
+So, wie wir es in Woche 0 eingerichtet haben: links die Dateien, in der Mitte der Editor, im Terminal läuft Claude Code.
 
 - **Claude Code installieren**, falls noch nicht vorhanden → [claude.ai/code](https://claude.ai/code). Folge den Anweisungen auf der Seite für dein Betriebssystem.
-- **Ein Terminal:**
-  - **Mac:** Das Programm heißt **Terminal** — bereits vorinstalliert (Programme → Dienstprogramme → Terminal, oder `Cmd + Leertaste` → "Terminal")
-  - **Windows:** Suche nach **PowerShell** in der Windows-Suche und öffne es
+- **Cursor installieren**, falls noch nicht vorhanden → [cursor.com](https://cursor.com)
 
 ---
 
@@ -27,11 +27,16 @@ Wenn Claude bei dir schon installiert ist — in vielen Firmen wird die Desktop-
 
 ### Schritt 1 — Kursordner herunterladen
 
-Gehe auf die Kursseite (den Link hast du per E-Mail erhalten) und klicke auf den grünen **Code**-Button → **Download ZIP**.
+Gehe auf die GitHub-Seite dieses Kurses (den Link findest du auf der Kursplattform) und klicke auf den grünen **Code**-Button → **Download ZIP**.
 
 ![Download ZIP](https://docs.github.com/assets/cb-20363/mw-1440/images/help/repository/code-button.webp)
 
 Entpacke die ZIP-Datei in einen Ordner deiner Wahl — zum Beispiel auf dem Schreibtisch oder in deinen Dokumente-Ordner.
+
+- **Mac:** Doppelklick reicht.
+- **Windows:** Rechtsklick → **Alle extrahieren** → **Extrahieren** (nicht nur doppelklicken, sonst stecken die Dateien noch im Archiv).
+
+Der entpackte Ordner heißt `AIAugmented_Woche1-main`.
 
 ### Schritt 2 — Claude im Kursordner öffnen
 
@@ -41,23 +46,11 @@ Claude muss in **genau diesem Ordner** arbeiten — dem, in dem direkt die `CLAU
 
 Öffne Claude, starte eine **neue Session** und lenke sie in den entpackten Kursordner.
 
-**Weg B — Terminal**
+**Weg B — Cursor**
 
-Öffne dein Terminal und navigiere in den entpackten Ordner:
-
-**Mac:**
-```bash
-cd ~/Desktop/AIAugmentedPM-Woche1
-claude
-```
-
-**Windows (PowerShell):**
-```powershell
-cd "$env:USERPROFILE\Desktop\AIAugmentedPM-Woche1"
-claude
-```
-
-Falls du den Ordner woanders gespeichert hast, passe den Pfad entsprechend an.
+1. In Cursor: **File → Open Folder** → den entpackten Ordner `AIAugmented_Woche1-main` wählen → **Yes, I trust the authors**.
+2. **Terminal → New Terminal** öffnen.
+3. Im Terminal `claude` eintippen und Enter drücken.
 
 Claude ist jetzt bereit. Tippe "Starte den Kurs" um zu beginnen.
 
@@ -89,7 +82,7 @@ Starte den Kurs ab Schritt 4
 ## Dateistruktur
 
 ```
-AIAugmentedPM-Woche1/
+AIAugmented_Woche1-main/
 ├── README.md              ← Diese Datei — lies sie zuerst
 ├── CLAUDE.md              ← Wird automatisch von Claude geladen
 ├── kurs.md                ← Der vollständige Kursinhalt
@@ -117,7 +110,7 @@ Für diesen Kurs reicht **Sonnet** vollständig aus — du brauchst kein teurere
 So wählst du es:
 
 - **Desktop-App:** im Modell-Auswahlfeld **Sonnet** wählen.
-- **Terminal:** `/model` tippen, Enter, dann **Sonnet** aus der Liste wählen.
+- **Cursor:** im Terminal bei Claude `/model` tippen, Enter, dann **Sonnet** aus der Liste wählen.
 
 ---
 
